@@ -1,0 +1,20 @@
+{
+    "Author": "jlaari",
+    "ContentSize": 6619,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/backup-azure-sql-databases-to-blob-storage/master/Backup-AzureDatabaseToBlobStorage.ps1",
+    "DownloadCount": 8106,
+    "Id": "Backup-Azure-SQL-Databases-bbeea33e",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 19,
+    "RaterCount": 3,
+    "Rating": 4.7,
+    "ReleaseDate": "2017-2-21T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This Azure Automation runbook automates Azure SQL database backup to Blob storage and deletes old backups from blob storage. You should use this Runbook if you want manage Azure SQL database backups in Blob storage.",
+    "Title": "Backup Azure SQL Databases to Blob storage",
+    "UpdatedDate": "2017-3-22T00:00:00",
+    "Url": "https://github.com/azureautomation/backup-azure-sql-databases-to-blob-storage",
+    "UserTags": "Runbook, Windows Azure SQL Database, blob storage"
+}
